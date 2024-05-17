@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/elasticsearch-net-tsds-mode-changes-source-serialization/bin/Debug/net6.0
+/elasticsearch-net-tsds-mode-changes-source-serialization/obj
